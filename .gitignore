@@ -2,6 +2,9 @@
 .git
 *.git
 .env
+*.env
+env
+src/config/config.json
 # dependencies
 /node_modules
 /.pnp
